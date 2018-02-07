@@ -1,0 +1,24 @@
+
+
+a:link, a:visited {
+    background-color: lavender;
+    color: black;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: center; 
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 23px;
+    font-family: 'Lobster Two', cursive;\
+    font-size: 250%
+    outline: 1px solid black;
+
+    }
+
+    a:hover, a:active {
+    background-color: lightpink;
+    outline: 1px solid black;
+}
